@@ -49,10 +49,10 @@ namespace IDripManager {
     func manageDebt(_borrower: felt, amount: Uint256, increase: felt) {
     }
 
-    func approveDrip(borrower: felt, target: felt, token: felt,amount: Uint256) {
+    func approveDrip(borrower: felt, target: felt, token: felt, amount: Uint256) {
     }
 
-    func transferDripOwnership(_from : felt, _to: felt) {
+    func transferDripOwnership(_from: felt, _to: felt) {
     }
 
     // Getters
